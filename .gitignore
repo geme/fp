@@ -1,0 +1,8 @@
+# IDE itself
+/.idea
+
+# Logging
+*.log
+
+# Build artifacts
+target/
