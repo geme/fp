@@ -1,4 +1,5 @@
 import org.scalatest.{FlatSpecLike, Matchers}
+import list._
 
 class ListTest extends FlatSpecLike with Matchers{
 
